@@ -12,3 +12,11 @@
   --ifm-color-primary-lighter: #547dc0;
   --ifm-color-primary-lightest: #6f91c9;
   }
+
+.navbar .navbar__brand {
+  margin-left: 2rem;
+}
+
+.navbar .navbar__items.navbar__items--right {
+  margin-right: 2rem;
+}
