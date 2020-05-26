@@ -17,7 +17,10 @@
 }
 
 .featureHeading {
+  /* align-self has no effect currently */
   align-self: center;
+  font-size: 38px;
+  font-weight: bolder;
 }
 
 .hero {
